@@ -1,0 +1,4 @@
+﻿  Viewer.cpp
+c:\users\hmunoz\documents\visual studio 2017\projects\cloudtypedetection\cloudtypedetection\viewer.cpp(32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CloudTypeDetection.vcxproj -> c:\users\hmunoz\documents\visual studio 2017\Projects\CloudTypeDetection\x64\Debug\CloudTypeDetection.exe
+  CloudTypeDetection.vcxproj -> c:\users\hmunoz\documents\visual studio 2017\Projects\CloudTypeDetection\x64\Debug\CloudTypeDetection.pdb (Partial PDB)
